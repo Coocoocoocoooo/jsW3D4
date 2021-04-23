@@ -1,2 +1,2 @@
 # jsW3D4
-dom traversal? who cares
+document object traversal? Never heard of it
